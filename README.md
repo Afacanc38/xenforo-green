@@ -1,5 +1,9 @@
 # xenforo-green
 XenForo için hazırlanmış yeşil bir tema.
+![Screenshot_20210511_133202](https://user-images.githubusercontent.com/66299502/117801827-661fe100-b25d-11eb-8553-1cd8d8b57e2b.png)
+![Screenshot_20210511_133202](https://user-images.githubusercontent.com/66299502/117801933-864fa000-b25d-11eb-998a-65a698dfc520.png)
+![Screenshot_20210511_133202](https://user-images.githubusercontent.com/66299502/117802047-a7b08c00-b25d-11eb-84b0-9baaeaaf0970.png)
+
 
 ## Nasıl uygulanır?
 1. Stylish eklentisini edinin.
