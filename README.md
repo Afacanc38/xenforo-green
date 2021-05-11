@@ -1,5 +1,6 @@
 # xenforo-green
 XenForo için hazırlanmış yeşil bir tema.
+
 ![Screenshot_20210511_133202](https://user-images.githubusercontent.com/66299502/117801827-661fe100-b25d-11eb-8553-1cd8d8b57e2b.png)
 ![Screenshot_20210511_133202](https://user-images.githubusercontent.com/66299502/117801933-864fa000-b25d-11eb-998a-65a698dfc520.png)
 ![Screenshot_20210511_133202](https://user-images.githubusercontent.com/66299502/117802047-a7b08c00-b25d-11eb-84b0-9baaeaaf0970.png)
@@ -20,4 +21,4 @@ Bu CSS Technopat Sosyal'de denenmiştir.
 ![Screenshot_20210511_132700](https://user-images.githubusercontent.com/66299502/117801209-b2b6ec80-b25c-11eb-8566-a72fcc958d80.png)
 
 # UYARI
-Bu tema WebKit tabanlı tarayıcılarda (mesela GNOME Web ve Safari) düzgün çalışmayabilir. Firefox'da en iyi deneyimi elde etmek istiyorsanız `about:config` sayfasından `gfx.webrender.all` ve `layout.css.backdrop-filter.enabled` seçeneklerini `true` yapın.
+Bu tema WebKit tabanlı tarayıcılarda (mesela GNOME Web ve Safari) düzgün çalışmayabilir. Firefox'da en iyi deneyimi elde etmek istiyorsanız `about:config` sayfasından `gfx.webrender.all` ve `layout.css.backdrop-filter.enabled` seçeneklerini `true` yapın. Varsa sitenin karanlık temasını açın.
