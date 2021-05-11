@@ -1,4 +1,3 @@
-@-moz-document domain("technopat.net") {
 .p-nav {
     background: rgba(0,0,0,.5);
     backdrop-filter: saturate(180%) blur(2rem);
@@ -310,4 +309,17 @@ a {
     border-bottom: 1px solid rgba(255,255,255,.12);
     background: #31441b;
 }
+
+.blockStatus {
+    color: #fff;
+    background: #1e1e1e;
+    border-width: 1px;
+    border: 1px solid rgba(255,255,255,.12);
+    border-left-color: rgba(255,255,255,.12);
+    border-left: 3px solid #8bc34a;
+    border-radius: 4px;
+    margin: 0;
+    padding: 6px 0;
+    font-size: 13px;
+    text-align: left;
 }
