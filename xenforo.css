@@ -323,3 +323,21 @@ a {
     font-size: 13px;
     text-align: left;
 }
+
+.userBanner {
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 6px;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+}
+
+.userBanner.userBanner--staff, .userBanner.userBanner--primary {
+    color: #fff;
+    background: #8bc34a;
+    border-color: #5f6672;
+    border-color: #2196f300;
+}
