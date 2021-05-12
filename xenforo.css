@@ -354,3 +354,9 @@ a {
     background: #0058ff !important;
     border-color: #30c3ff !important;
 }
+
+.label.label--primary {
+    color: #fff;
+    background: #06b900 !important;
+    border-color: #326893 !important;
+}
