@@ -341,3 +341,10 @@ a {
     border-color: #5f6672;
     border-color: #2196f300;
 }
+
+.label.label--yellow {
+    color: #000;
+    background: #ff0;
+    border-color: #ffffc4;
+    border-color: #e6e687;
+}
