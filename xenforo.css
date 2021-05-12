@@ -114,7 +114,6 @@ a {
 .bbCodeBlock {
     display: flow-root;
     margin: .5em 0;
-        margin-top: 0.5em;
     background: #1f2b11;
     border: 1px solid rgba(255,255,255,.12);
     border-left: 3px solid #8bc34a;
@@ -383,5 +382,12 @@ a {
 
 .fr-box.fr-basic .fr-toolbar.fr-top {
     background: #31441b00 !important;
+    border-radius: 15px;
+}
+
+.userBanner.userBanner--skyBlue {
+    color: #fff;
+    background: #8bc34a;
+    border-color: #a5d6ea00;
     border-radius: 15px;
 }
