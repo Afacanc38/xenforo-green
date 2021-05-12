@@ -376,3 +376,12 @@ a {
     background: #01512f;
     border-left: 3px solid #63b265;
 }
+
+.fr-box.fr-basic.is-focused {
+    background: #2d2d2d;
+}
+
+.fr-box.fr-basic .fr-toolbar.fr-top {
+    background: #31441b00 !important;
+    border-radius: 15px;
+}
