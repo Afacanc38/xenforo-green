@@ -360,3 +360,7 @@ a {
     background: #01512f !important;
     border-color: #326893 !important;
 }
+
+.message--solution .message-cell.message-cell--vote {
+    background: #01512f;
+}
