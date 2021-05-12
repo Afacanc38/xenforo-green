@@ -22,7 +22,7 @@ Bu CSS Technopat Sosyal ve Shiftdelete.net Forum'da denenmiştir.
 ## Yapılacaklar:
 * [X] ~~Mesaj yazma kutusundaki sorunlar düzeltilecek.~~
 * [ ] İletişim kutuları düzenlenecek.
-* [ ] Beyaz tema seçili olsa dahi yine de siyah kalacak.
+* [ ] Beyaz tema seçili olsa dahi yine de tema siyah kalacak ve bozulmayacak.
 
 # UYARI
 Bu tema WebKit tabanlı tarayıcılarda (mesela GNOME Web ve Safari) düzgün çalışmayabilir. Firefox'da en iyi deneyimi elde etmek istiyorsanız `about:config` sayfasından `gfx.webrender.all` ve `layout.css.backdrop-filter.enabled` seçeneklerini `true` yapın. Varsa sitenin karanlık temasını açın.
