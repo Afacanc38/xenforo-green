@@ -364,3 +364,15 @@ a {
 .message--solution .message-cell.message-cell--vote {
     background: #01512f;
 }
+
+.block:not(.block--messages) .block-container:not(.block-container--noStripRadius) > .block-body:first-child > .message:first-child .message-inner:first-of-type .message-cell:first-child, .block:not(.block--messages) .block-topRadiusContent.message .message-inner:first-of-type .message-cell:first-child, .block:not(.block--messages) .block-topRadiusContent > .message:first-child .message-inner:first-of-type .message-cell:first-child {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px !important;
+}
+
+.message-cell.message-cell--solutionHeader {
+    color: #fff;
+    font-size: 17px;
+    background: #01512f;
+    border-left: 3px solid #63b265;
+}
