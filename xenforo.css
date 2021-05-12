@@ -348,3 +348,9 @@ a {
     border-color: #ffffc4;
     border-color: #e6e687;
 }
+
+.label.label--skyBlue {
+    color: #fff;
+    background: #0058ff !important;
+    border-color: #30c3ff !important;
+}
