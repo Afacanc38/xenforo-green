@@ -426,3 +426,7 @@ a {
 .fa, .fas, .far, .fal, .fad, .fab {
     color: rgb(127, 178, 69) !important;
 }
+
+a {
+    color: #84b846 !important;
+}
