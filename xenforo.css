@@ -1,3 +1,14 @@
+html {
+    font: 15px/1.4 sans-serif;
+        font-weight: normal;
+        font-size: 15px;
+        font-family: sans-serif;
+    font-family: segoe ui,helvetica neue,Helvetica,Roboto,Oxygen,Ubuntu,Cantarell,fira sans,droid sans,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    word-wrap: break-word;
+}
+
 .p-nav {
     background: rgba(0,0,0,.5);
     backdrop-filter: saturate(180%) blur(2rem);
