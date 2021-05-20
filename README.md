@@ -7,7 +7,7 @@ XenForo için hazırlanmış yeşil bir tema.
 
 
 ## Nasıl uygulanır?
-1. Stylish eklentisini edinin.
+1. Stylus eklentisini edinin.
 2. Write style seçeneğinde domaini seçin.
 ![Screenshot_20210511_132359](https://user-images.githubusercontent.com/66299502/117800788-30c6c380-b25c-11eb-85c0-473e1c037d9a.png)
 3. xenforo.css'nin içeriğini yapıştırın.
