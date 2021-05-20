@@ -411,3 +411,8 @@ a {
     padding-right: 4px;
     background: #0000;
 }
+
+element {
+    color: rgb(127, 178, 69);
+    font-size: 32px;
+}
