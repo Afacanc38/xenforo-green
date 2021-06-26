@@ -12,7 +12,7 @@ XenForo için hazırlanmış yeşil bir tema.
 ![Screenshot_20210511_132359](https://user-images.githubusercontent.com/66299502/117800788-30c6c380-b25c-11eb-85c0-473e1c037d9a.png)
 3. xenforo.css'nin içeriğini yapıştırın.
 
-Bu CSS Technopat Sosyal ve Shiftdelete.net Forum'da denenmiştir.
+Bu CSS Technopat Sosyal'de denenmiştir.
 
 ## Bilinen hatalar
 
